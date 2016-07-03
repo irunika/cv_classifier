@@ -39,6 +39,8 @@ def upload():
         # Redirect the user to the uploaded_file route, which
         # will basicaly show on the browser the uploaded file
         User = CV_reader(filename)
+        if User == "Wrong Template":
+            return "Wrong Template"
         # return redirect(url_for('uploaded_file',
         #                         filename=filename))
         return json.dumps(User.__dict__)
