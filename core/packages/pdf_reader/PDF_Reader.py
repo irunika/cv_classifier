@@ -1,28 +1,34 @@
-import os
-
-content = 'CV - Ravindu Rashmika.pdf'
+import config
+from core.dbmgt.usermgt.user import User
+# content = 'CV - Ravindu Rashmika.pdf'
 
 from textract import process
 
-text = process(content)
-data = text.split("\n")
-# print data
-for i in range(0, len(data)):
-    if data[i] == "Full Name":
-        print "Full Name: ", data[i + 2]
-    if data[i] == "Contact Nos.":
-        print "Contact Nos.: ", data[i + 2]
-    if data[i] == "Email":
-        print "Email: ", data[i + 2]
-    if data[i] == "NIC No":
-        print "NIC No: ", data[i + 2]
-    if data[i] == "Nationality":
-        print "Nationality: ", data[i + 2]
-    if data[i] == "Gender":
-        print "Gender: ", data[i + 2]
-    if data[i] == "Date of Birth":
-        print "Date of Birth: ", data[i + 2]
-    if data[i] == "Marital Status":
-        print "Marital Status: ", data[i + 2]
-    if data[i] == "Spoken Languages":
-        print "Spoken Languages: ", data[i + 2]
+
+def CV_reader(fileName):
+    global FullName, ContactNos, Email, NICNo, Nationality, Gender, DateofBirth, MaritalStatus, SpokenLanguages
+    file = config.PathToUpload + fileName
+    text = process(file)
+    data = text.split("\n")
+
+    for i in range(0, len(data)):
+        if data[i] == "Full Name":
+            FullName = data[i + 2]
+        if data[i] == "Contact Nos.":
+            ContactNos = data[i + 2]
+        if data[i] == "Email":
+            Email = data[i + 2]
+        if data[i] == "NIC No":
+            NICNo = data[i + 2]
+        if data[i] == "Nationality":
+            Nationality = data[i + 2]
+        if data[i] == "Gender":
+            Gender = data[i + 2]
+        if data[i] == "Date of Birth":
+            DateofBirth = data[i + 2]
+        if data[i] == "Marital Status":
+            MaritalStatus = data[i + 2]
+        if data[i] == "Spoken Languages":
+            SpokenLanguages = data[i + 2]
+    user = User(FullName, ContactNos, Email, NICNo, Nationality, Gender, DateofBirth, MaritalStatus, SpokenLanguages)
+    return user
