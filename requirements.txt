@@ -1,1 +1,3 @@
-pdfrw
+textract
+flask
+flask_restful
