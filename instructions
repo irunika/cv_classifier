@@ -1,0 +1,9 @@
+after installing nltk package
+1. Open a terminal
+2. type 'python'
+3. Above command will activate the python interpreter
+3. then type the following commands and install the needing packages
+    i) import nltk
+    ii) nltk.download('punkt')
+
+Note: Without running above command the programme will not run correctly

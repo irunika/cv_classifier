@@ -1,3 +1,4 @@
 textract
 flask
 flask_restful
+nltk

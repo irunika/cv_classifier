@@ -1,0 +1,2448 @@
+inheritance
+softwarevalet
+kdm
+application programmer
+cfg
+linux software map
+basic
+robodoc
+token ring
+opendoc
+knowleage robot
+add one and do not skip
+jar file format
+portable operating system interface
+apache incubator
+engine
+der dirigent
+sourceforge
+database administration
+macromedia flash
+uit
+microsoft certified desktop support technician
+raconteur
+specificity
+segment
+moodle
+syntax
+mailbox
+accu
+emulation mode
+keyboard mapping
+haskell programming language
+pid
+gnu general public license
+structured analysis
+apache project
+resolution
+compositing
+baseband
+source program
+dbms
+c programming language
+monospace
+web standards
+software sampler
+account name
+vaporware
+null
+allegro library
+fifthgeneration programming language
+parallel computing
+kerning
+posix
+java(tm) runtime environment (jre)
+antialiasing
+codec
+distributed computing
+bbs
+link farm
+sdd
+binary
+gps
+debug
+rainlender
+compiler
+windows 98
+replaced element
+sqlite
+open group
+runtime error
+open platform
+information hiding
+java script
+listserv
+qcad
+comment  cascading style sheets (css)
+powerarchiver
+xmms
+delivered source instruction
+high level assembly
+  gnu network object model environment
+windows 1.0
+exception
+data communications
+ascii
+leading
+crash
+ddl
+lynx
+disk operating system
+rss
+ole
+internet relay chat bot
+cursor control
+foreground
+iprism
+cd ripper
+glasgow haskell compiler
+free software
+64 bit
+international network of crackers
+unix support group
+loop nest optimization
+gnu data language
+it management
+forward compatible
+anatomic p2p
+aos
+raid
+catch
+dhtml
+open sound system
+action request midtier
+management information systems
+communications program
+organic search
+stuffit expander
+domi
+software agent
+peephole optimization
+application program
+algorithm
+computer graphics
+bytecode
+doom wad
+retiming
+superclass
+killer app
+query optimizer
+after dark
+block started by symbol
+type
+amigaos
+full motion video
+control key
+hypermedia
+session layer
+objectsql mapping
+ibm
+connect time
+disassembler
+constructive cost model
+npl
+chemical markup language
+Â  java opengl
+izarc
+java workshop(tm)
+dumb terminal
+mystic bbs
+povray
+multitasking
+wan
+fiber optics
+cursor
+bmrt
+object-based
+extreme programming
+validate
+desktopbsd
+parallel port
+character map
+systems programmer
+dump
+sunos
+ajax
+xxgdb
+filemaker pro
+font
+queue
+rtsc
+working draft
+key
+software architecture
+java blend(tm)
+down
+icon
+method
+cl
+kompas3d
+utility computing
+edit
+register spilling
+fmv
+klite
+rematerialization
+web analytics
+lms
+semantic markup
+upward compatible
+inline style
+hybrid multiprocessing
+execute
+odnt
+bespoke software
+adobe illustrator
+tcp ip
+lesser general public license
+berkely software design
+cascading style sheets
+ar system import
+is
+risc ix
+universal selector
+message
+ues
+word processing
+sfa
+cocomo
+bd software c compiler
+software cracking
+copycat
+loop fusion
+scope
+windows forms
+drawing program
+natural search
+data scrubbing
+gateway
+msql
+conversion rate
+switch
+ghc
+ds
+systems program
+downtime
+relational database
+ghost
+software entropy
+functional programming language
+osi
+distiller
+embeddedjava(tm) technology
+fsml
+bash
+bitwise operator
+ar system administrator
+geeklog
+gw basic
+3gl
+data display debugger
+digital
+interchangeability
+boost library
+clearcase
+o.k.i.
+javadoc
+idl
+kernel mode
+microsoft certified professional
+knowbot
+pica
+windows 3.0
+abnormal end of task
+lpr
+realaudio
+operating system
+identity server
+aloha
+constraint satisfaction
+software environment
+programming macro
+risc os
+function point analysis
+backlink
+printer control language
+gnu toolchain
+pascal programming language
+channel
+error message
+compiler bug
+extended backus naur form
+java message service
+developer studio
+do
+paint program
+data
+syntax highlighting
+point
+linux kernel
+greenware
+javasafe(tm)
+cam
+Â  microsoft certified database administrator
+web portal
+peer
+linux pc
+abandonware
+interface standard
+vertical software
+db/dc
+windows 2.x
+lisp programming language
+script
+access
+sybase sql server
+s/w
+java card(tm) api
+gtk+
+gvn
+open system
+64bit
+board support package
+ftp client
+memory management
+machine code instruction
+coldfusion markup language
+database management ssystem
+karma
+character set
+idms
+irc bot
+software piracy
+yet another free raytracer
+static field
+greyware
+viewer program
+mozilla application object model (aom)
+derived from
+trace scheduling
+em
+field
+run
+uat
+mct
+third generation language
+misra
+avidemux
+j2ee
+oda
+work space
+microsoft sql server
+line printer
+shortcut menu
+printout
+selfextracting file
+gnu robots
+bus
+ar system
+placeholder text
+virtual reality modeling language
+laserdisc
+selector
+ftp
+jughead
+general algebraic modeling system
+development tools
+crowd simulation
+course management system
+terabyte
+fibonacci number program
+adaware
+beta test
+acdi
+assembler
+scheduling application programming interface
+chinook checkers program
+concentrator
+noncompressed sound data
+url
+systems application architecture
+rfe
+jump threading
+co
+local variable
+beta version
+trigger
+database normalization
+new
+package
+software hoarding
+architecture neutral distribution format
+java remote method invocation
+dial-up line
+turbo c
+cpu
+dkbtrace
+cosmicos
+software &amp; information industry association
+experimental/enhanced gnu compiler system
+asynchronous
+autolisp
+partial evaluation
+ir
+application development facility
+veronica
+xmlbeans
+mozbot
+heuristics
+brs
+data migration
+html
+object database management system
+distributed database
+wordwrap
+encapsulation
+runtime environment
+compiler directive
+native
+personal computerdisk operating system
+page description language
+distcc
+ai
+callbyreference
+timesharing
+sandbox
+systems management
+sccs
+data definition language
+1gl
+anchor
+htmlkit
+tutorial
+andf
+structured query language
+report writer
+system integration testing
+sponge
+structured systems analysis and design method
+computeraided engineering
+telecommunication
+os/2
+methodology
+geogebra
+gui
+modem
+extended static checker for java
+glueware
+captcha
+kilobyte(k)
+gnu debugger
+3d computer graphics
+application binary interface
+distributed database management system
+rom
+application macro
+autodesk inventor
+ez publish
+platform content management system
+numerical analysis
+character
+open document architecture
+userid
+dbase
+berkeley software distribution license
+batch processing
+compiler optimization
+pict
+data manipulation language
+keyboard macro
+database server
+multithreading
+rtorrent
+usability
+information retrieval
+codewarrior
+nocd crack
+opensource software
+kpackage
+x window system
+sdr
+master family
+amoeba
+doublebyte character set
+activex programs
+archie
+callback
+greg
+break
+delphi
+ecommerce
+service oriented analysis
+visual c++
+addin
+copyright
+data mining
+robotic computer ccontrolled entity
+data analytics server
+authorization
+client-server interface
+microsoft certified solution developer
+abstract type
+afk gaming
+xerox parc
+ebnf
+web application
+hypertalk
+gnu mdk
+accessibility
+social software
+directx
+disk or diskette
+project portfolio management
+bold
+srvany
+routing
+hypercard
+intellij idea
+conceptbase
+nonprintable character
+lamp
+boundschecking elimination
+dead code
+igs
+just-in-time (jit) compiler
+integrated software package
+persistence of vision raytracer
+microsoft windows
+gnu
+sweep software
+electric fence
+comment
+fortran assembly program
+new visitor
+data cleansing
+software metric
+gcj
+iis
+page recognition
+cross platform component object model
+computeraided industrial design
+array
+operating environment
+for
+multiplexer
+dbx debugger
+integrated development environment
+joomla!
+microsoft macro assembler
+external command
+reentrant
+garbage
+masm
+odbc
+xcmd
+applet
+garbage collection
+optional packages
+query
+wait
+cascade
+workgroup
+mb
+macintosh operating system
+sound exchange
+java
+source lines of code
+common intermediate format
+cama
+linux audio developers simple plugin api
+interpreter program
+noncode resource
+component object model
+ladspa
+module
+x-term
+logic programming
+dial-up
+paged media
+transfer
+closedbsd
+application programming interface
+screencast
+w3c
+root directory
+screen scraper
+uml tool
+software suite
+linux
+quickbasic
+objectrelational database
+cross platform music multiplexing system
+variables
+adaptive server enterprise (ase)
+common development and distribution license
+challenge of reverse engineering
+driver wrapper
+terragen
+application suite
+systems administration
+pseudoelement
+gopher
+simulation
+tos
+mail
+outliner
+dom inspector
+load
+methods
+siggraph
+default
+microprogramming
+post
+domain name
+container element
+enterprise software architecture
+ieee 8291998
+font category
+gpl
+re-engineering
+per seat
+microprocessor
+demoware
+spool
+bootstrapping
+css framework
+softice
+asp
+32bit
+editor
+autotote
+operating system/2
+layer
+aml
+progressive enhancement
+html code
+learning management system
+global value numbering
+Â  gnome display manager
+freebsd
+e-mail address
+java application environment (jae)
+nacs
+first generation programming language
+programming
+javascript(tm)
+child
+class method
+domain
+identity management
+romanian freebsd users group
+nlp
+software genre
+openwindows
+sdlc
+abend
+32-bit
+ae
+software
+scm
+else
+kde display manager
+cursive
+name binding
+business rules server
+turbo pascal
+dictionary file
+baud
+ord
+sysadmin
+reduced instruction set computer operating system
+jswat
+virtual basic script
+bounding box
+chip
+insure++
+static class
+mit license
+keychan
+twain
+information superhighway
+budget range
+angel operating system
+remote
+mouse
+makerefmovie
+video game
+web server
+hoard memory allocator
+osid
+regression testing
+adaptiv workforce
+hothtml
+data modeling
+function key
+case
+output
+logical record
+gftp
+session
+pre
+line editor
+aspack
+http
+runtime library
+xcode
+ms
+font family
+winrar
+pc weenies
+object-oriented
+adeptxbbs
+loop inversion
+bookmark
+ip
+subclass
+microsoft disk operating system
+task
+djgpp
+highlevel language
+definition
+automatic data processing
+fqdn
+casting
+kdbg
+hierarchical file
+wais
+gnavi
+openroad
+hmp
+sgml application
+application
+continuous media
+object model
+capabilities maturity model
+data mapping
+pkzip
+input
+winny program
+systems analysis
+kermit
+microservices server
+activemovie
+file format
+serif
+linux audio multiple interface player
+doom
+public domain
+perl
+software lifecycle
+xpcom
+aluria software
+memory
+register allocation
+computer aided design
+stored procedure
+sp
+actionscript
+hsl
+people aggregator
+publicdomain software
+double precision
+open knowledge initiative
+gnu nyu ada translator
+kvcd
+burst
+machine code
+data mart
+kde accessibility project
+record
+distributed component object model
+wine software
+computer science
+qbasic
+x.org fundation
+object management group
+config.sys
+custom software
+recovery
+form
+broadcast
+avi
+frequency
+jms
+muse
+natural language
+advanced communication function
+antiadware
+microsoft .net framework
+fiora
+api manager
+spreadsheet
+rtos
+wavelength
+octal
+monotone
+java(tm) platform
+overloading
+binary number
+freebasic
+distributed application
+serviceoriented analysis and design
+blocklevel elements
+twintext
+second generation language
+quit
+external style sheet
+java html
+generalized markup language
+simple object access protocol
+const
+car
+common subexpression elimination
+interface encapsulation
+program
+mysql
+boolean algebra
+cmd.exe
+collision
+static method
+generic software
+alias
+proposed recommendation
+authoring tool
+cecill
+monitor
+dynamic debugging technique
+xhtml
+constraint programming
+entropy
+k desktop environment
+wxwidgets
+corc
+incompatible timesharing system
+stl
+alphanumeric
+plugin or plugin
+synchronized
+smalltalk
+sequel
+dedicated line
+pygtk
+formatting objects processor
+purify memory debugger
+freedoom
+config files
+netscape
+loop optimization
+novell zenworks
+5gl
+uri
+bit
+core class
+return
+application package
+parity
+baitware
+gml
+heterogeneous system
+software engineering institute
+audacity
+pyqt
+variable
+sparcstation
+p7zip
+global arrays
+16-bit
+void element
+coded character set
+software development kit
+libmp3splt
+font stack
+web log
+tinyos
+nucalc
+java(tm) foundation classes (jfc)
+backup &amp; recovery
+softimage|xsi
+hit
+dehardwarization
+visitor
+bcx
+aggregate data
+text editor
+virtual machine
+gnu linear programming kit
+kbit/s
+microwave
+e-mail service
+api documentation
+fop
+cif
+information server
+external functions
+z88dk
+sparse conditional constant propagation
+serial
+real time
+java management extensions
+workstation
+data structure
+das
+topic
+lurch
+terminal emulation
+runtime
+gnu zip
+lno
+physalis
+soft copy
+system integrator
+autoexec.bat
+windows api
+acf ncp
+bulletin board (bbs)
+digital paper
+try
+commercial software
+keyboard
+fortran
+lowlevel language
+postgres
+irc
+while
+copyleft
+classpath
+digital wallet
+emulator
+ss
+open source initiative
+khtml
+minify
+breadcrumb
+action request system
+oss
+dating software
+basic to c translator
+lan e-mail system
+time out
+windows 3.1x
+cedega
+betbug
+racter
+aaron
+javacheck(tm)
+monad
+routine
+job
+bitnet
+flac
+supervisory control and data acquisition
+ddms
+visualkore
+hard copy
+favicon
+mission
+xml schema
+rup
+dom
+pixel
+100% pure java(tm)
+digital asset management
+association of c and c++ users
+login
+com
+markup
+computerassisted reviewing
+bedroom programming
+computeraided design and drafting
+binding time
+software project life cycle
+scandisk
+server
+jdk(tm)
+dds
+java web server(tm)
+bells and whistles
+software tool
+programming language
+impression
+partial redundancy elimination
+backspace
+windows xp
+dba
+efsm
+sales force automation
+atomic
+java virtual machine
+bsd daemon
+bloatware
+customer relationship management
+alpha value
+command.com
+macsbug
+bsd license
+interprocedural optimization
+copyright infringement
+openbsm
+concurrent versions system
+jini(tm) technology
+protocol
+kdeap
+cga
+magnetic disk
+scheduling
+jdbc
+svk
+dtd
+open source
+application software
+booting
+kmeleon
+turbo basic
+parser program
+adf
+extends
+internet information server
+altq
+standard generalized markup language
+software licensing
+loop unwinding
+disposable soft synth interface
+xad
+special interest group in graphics
+dll hell
+lamip
+catia
+packet
+peripheral
+computer game
+oracle database
+free lossless audio codec
+identifier
+source configuration management
+gnu texmacs
+microsoft systems management server
+priority inversion
+adp
+flat assembler
+open source definition
+zipgenius
+winzip
+profiles
+automatic parallelization
+download
+drive
+wrapper
+internal command
+throws
+msdos
+rofug
+glibc
+donateware
+software rot
+web3d consortium
+qvcs
+argument
+pcl
+servlet
+gdm
+class library
+transport layer
+software blacklist
+mini sql
+virtual basic
+tendra compiler
+freeware
+parallel compiler
+scan length
+powerbasic
+mdx
+internet
+conference
+adabas
+cea cnrs inria logiciel libre
+compilercompiler
+truetype
+natural language processing
+quality
+opengl
+defragment
+omg
+virtual graphics library
+cyberspace
+broadband
+javaplan(tm)
+interactive geometry software
+lzo
+meta data
+style
+gnustep
+microbsd
+wrapper software
+objectrelational database management system
+common operating environment
+open graphics library
+pup
+https
+pattern matching
+gnu build system
+data element definition
+dssi
+machine language
+motor industry software reliability association
+process
+address
+general purpose language
+code generation
+loop unswitching
+addon
+wiki
+mcad
+wysiwyg
+sr
+dib
+ibalance
+dcl
+flex lexical analyser generator
+string intern pool
+file allocation table
+coco/r
+service (or service provider)
+comma separated values
+clean install
+very easy rodentoriented netwide index to computer archives
+ansi
+yacc
+ordbms
+structured programming
+dpi
+focal point
+libre software
+character repertoire
+fat
+hardware
+java database connectivity
+processorspecific software
+frontpage
+subtype
+portable
+usg unix
+embedded style
+class variable
+runtime system
+computational linguistics
+source code repository
+data rate
+modem setup
+cobol
+polymorphism
+search service
+ddt
+e-mail server
+bandwidth
+hexadecimal
+throw
+dataset
+subversion
+data warehouse
+church website in a box
+gnu/kfreebsd
+software generic
+esc/java
+configuration files
+sdml
+bitcomet
+citadel software
+api
+fsm
+associate program
+mps
+apache tomcat
+formal parameter list
+object database
+renegade bbs
+deprecation
+massachusetts institute of technology license
+online analytical processing
+dotnetnuke
+computeraided manufacturing
+x.org server
+clientside
+midi
+deprecated
+misra c
+distribution software
+reference
+compatible
+turbo c++
+application server
+streaming media
+overriding
+jogl
+core
+string
+wpg
+ada
+emulation
+constant propagation
+portable document format
+enterprise software
+gnu image finding tool
+vbscript
+final
+relational model
+gift
+xmms2
+abnf
+key generator
+microsoft visual studio debugger
+sox
+storage
+cvs
+pcboard
+datalog
+openkore
+signed document markup language
+legacy system
+jvm
+32 bit
+4gl
+finally
+favorites icon
+celestia
+proprietary software
+linker
+pageview
+evaluation strategy
+profiler
+abstract class
+instance variable
+instruction scheduling
+spof
+afc
+gnu scientific library
+guiltware
+fiber-optic
+lis
+gdl
+deflate algorithm
+lsm
+inline expansion
+html tag
+active cell
+authentication
+censorware
+keywords
+lattice c
+decompiler
+component software
+node
+drupal
+pro tools
+cornell compiler
+componetware
+mp3spltgtk
+preemptive multitasking
+virtual terminal
+filename extension
+kazaa lite k++
+debugger
+void
+oath
+browser
+multithreaded
+weblog software
+abi
+unicode
+scientific computing
+hard disk
+ruby programming language
+data architecture
+gdb
+ccea
+javascript
+transparent
+backus naur form
+redundant code
+client/server
+database 2
+seahorse
+computer aided software engineering
+collaborative software
+bsd/os
+error checking
+thread
+common core services
+eias
+remote shell protocol
+microstation
+tag
+xmen cartoon maker
+fixed width layout
+physical layer
+autonomous system
+cfml
+clisp
+spiderman cartoon maker
+rgb
+x multimedia system
+freesbie
+kazaa or kazzaa
+display
+cookie
+prolog
+medium
+faq
+xotcl
+enter key
+gnu's not unix
+multiuser
+lorem ipsum
+hla
+swing set
+jndi
+boastmachine
+volatile
+inbox
+systems development life cycle
+three tier architecture
+archive
+computer aided architectural design
+adobe acrobat
+long tail
+pdf
+mcsa
+mcsd
+siia
+text
+screen
+xerox development environment
+javacc
+nesting
+truespace
+extensible markup language (xml)
+live variable analysis
+normalization in database
+refactoring
+kylix
+crack intro
+release to manufacturing
+vbcc
+astronomical markup language
+bug
+rsh
+bps
+gas
+s programming language
+gnat programming studio
+application stack
+software audit
+ssadm
+cloud gateway
+access time
+java(tm) media apis
+repository open service interface definition
+menu
+firefox
+realtime
+vms
+telnet
+squeez utility
+singleton
+absent by enforced net deprivation
+federation against software theft
+kparts
+pcdos
+unreachable code
+cdf
+glpk
+port
+dynamiclink library
+upload
+kde
+bblog
+if
+.htaccess
+instruction
+brute force programing
+gigo
+homogeneous system
+opensolaris
+remote access
+plotter
+3d studio max
+system
+spell checker
+pc
+demodulation
+appliances
+netscape public license
+widget toolkits
+types
+it
+dither
+xterm
+root
+virtualgl
+ppm
+dedicated server
+instance method
+roshal archive
+dbcs
+sandwich test
+vga
+xview
+goto
+careware
+computer
+objectoriented programming
+usenet
+jae
+integrateddesign engineering analysis software
+terminal
+assembly language
+member
+os
+atm
+batch query
+memwatch
+doctype
+openntpd
+hotlist
+dcom
+gams
+raster
+domainspecific language
+cyclomatic complexity
+sdl
+ide
+buffer
+xml
+longitudinal study
+olap
+mainframe
+boycecodd normal form
+tape density
+adobe audition
+scanner
+main memory
+wysiwyg editor
+header
+javasoft(tm)
+jump command
+acrobat
+database object
+tape operating system
+property
+microsoft office specialist
+thin client
+csv
+coldfusion
+gigabyte
+microsoft .net
+rule
+ddd
+software license
+host computer
+java developer connection(sm)
+computer animation
+microsoft certified systems engineer
+spiral model
+utility
+fcs
+algol object code
+time series.
+hang
+bus topology
+delete key
+java ee
+rewind
+liquid layout
+ncsa
+vision
+instance
+functional programming
+typeface
+file sharing
+service pack
+freetds
+mis
+cad
+dmx
+java 2 platform, enterprise edition
+copy propagation
+php hypertext preprocessor
+backward compatible
+official production system
+memory pool system
+postscript
+window
+macro language
+386bsd
+zipping
+qb
+magnolia cms
+power pc
+key changer
+rzip
+mos
+programmer
+char
+folder
+exception handler
+analog
+unified modeling language tool
+random access
+computer generated imagery
+yafray
+import
+constructor
+minimalist gnu for windows
+login or logon
+openc++
+double
+securityenhanced linux
+recommendation
+reuse and reuseability
+byte
+png
+intelligent device management
+daemon
+multimedia
+ops5
+spam
+poweranimator
+sapi
+speech application programming interface
+bst
+sproc
+remote control software
+java(tm) enterprise api
+white space
+tree
+mime type
+striping
+dotgnu
+ieee
+software engineering
+gnat
+secure socket layer
+juk
+alternate queueing
+write
+software theft
+soap
+boolean logic
+parameter
+network
+internal link
+common lisp
+rss scraping
+sql
+directory
+keygen
+crm
+ebcdic
+turbo software
+bot
+data control language
+object request broker
+lcc
+element
+softwaredefined radio
+ecm
+first visit
+address space layout randomization
+critical section
+structured design
+object pool
+float
+data link layer
+cross compiler
+smiley
+iso
+interface
+fpa
+response
+governance registry
+control character
+open rapid object application development
+ing
+boolean or
+egcs
+business process server
+unix
+citrix certified enterprise administrator
+query language
+constraint logic programming
+sansserif
+jakarta project
+netwide assembler
+alpha version
+open64
+inverse mapping
+gnu/netbsd
+protected
+rtm
+xdbx
+i/o
+microsoft certified application developer
+se
+active server pages
+ml
+windows nt
+window me
+mambo cms
+online service
+format
+peek and poke
+windowing system
+java(tm) technologies
+comment  xml
+sdk
+aural
+jar files (.jar)
+web developer
+toggle
+ga
+slip
+extended ascii
+blue moon rendering tools
+quicktime
+autodesk animator
+instantiation
+jre
+dam
+record type
+affiliate program
+awt
+kernel
+turbo assembler
+normal flow
+boehm garbage collector
+bitmapped terminal
+agent
+upgrade
+read the source code
+java(tm) interface definition language (idl)
+user engagement server
+wings 3d
+windows
+mp3splt
+tldn
+exit page
+data entry
+lightweight process
+dreamweaver
+cc65
+esb
+server application
+java(tm) wallet
+cae
+password
+system administrator
+aix
+multiple perspective software development
+instanceof
+nodezilla
+hierarchical file structure
+nonlinear programming
+fetchandadd cpu instruction
+www
+cse
+gnu screen
+data element
+word processor
+communications line
+screen editor
+gzip
+demo
+pse
+read
+wellformed
+object linking and embedding
+loop transformation
+bundled software
+csci
+gnu compiler for java
+jmx
+charmap
+access control list
+potentially unwanted program
+open database connectivity
+object oriented database management system
+extensible markup language
+web content management system
+wing
+meta tag
+encryption
+casting variable
+microcomputer
+plug-in
+robustness
+cygwin
+magnetic tape
+database query language
+gnu arch
+bit rot
+hue
+hyperlink
+parent
+laboratory information system
+media cleaner pro
+orb
+soar cognitive architecture
+world readable files
+hsqldb
+dsl
+wireframe
+business software alliance
+bss
+single precision
+bourneagain shell
+complex event processor
+realsky
+trustedbsd
+tta
+piracy
+mozilla firefox
+bean
+transient
+customized toolbar
+planner programming language
+screencam
+smtp
+hardwired
+uml
+docomatic
+lint programming tool
+cg
+preemptive
+interpreter
+bitlord
+cron
+bzip2
+killer application
+static library
+mailer
+fragment
+system resource
+mcdba
+preprocessor
+saa
+microsoft access
+image map
+conversion funnel
+source language
+locator program
+ping
+darcs
+java(tm) electronic commerce framework
+public
+software package
+visual basic script edition
+instruction selection
+permalink
+reel tape
+form feed
+integrated database management system
+declaration
+mingw developer studio
+drda
+natural docs
+oo language
+gcc
+fibonacci numbers
+high level architecture
+device driver
+strategy
+file
+jrt
+tugzip
+open
+multimedia mail
+loop interchange
+web designer
+sloc
+netbsd
+osf
+java(tm) compatibility kit (jck)
+mac os x
+frame
+nagware
+assembly
+action evolution
+tcp
+content
+spreadsheet applications
+int
+fourier transform
+nonvolatile register
+open service interface definition
+advanced communication function  network control program
+wwiv bbs
+simple directmedia layer
+lan
+configuration management
+jfc
+return key
+motorola advanced computer systems debugger
+data conversion
+2d computer graphics
+autosketch
+serviceoriented architecture
+fast
+data mining extensions
+cep
+doxygen
+avionics software
+aggregate
+news aggregator
+visit
+topdown design
+user
+utility program
+bcnf
+jolix
+asynchronous communications device interface
+copy
+structured english query language
+code
+jmapi
+valid
+dot-matrix printer
+dribbleware
+acd canvas
+e-mail
+justify
+waterfall model
+javachip(tm)
+app manager
+ansys
+adware
+cognitive architecture
+dml
+recursive
+java platform, enterprise edition
+configuration
+deskscan
+microsoft windows, apache, mysql and perl/php/python
+david's advanced revision control system
+logoff
+normal form
+code coop
+wav
+caad
+network adapter
+on-line
+oss/j
+continue
+handwriting recognition
+lgpl
+static
+boolean
+implements
+message broker
+hierarchy
+xfree86
+resource
+soad
+3d flash
+help
+ip address
+gnu compiler collection
+mcdst
+binary tree
+fasm
+login id
+revision control
+presentation layer
+bsd
+ethernet
+boolean and
+jade programming language
+automatic vectorization
+pseudoclass
+compression/decompression
+microcode
+parallel algorithm
+agent software
+supertypes
+jbuilder
+websphere
+vb
+codebase
+odbms
+shelfware
+dead code elimination
+character code
+object
+shockwave
+windbg debugger
+mamp
+programming tool
+control panel
+od390
+gnu hurd
+dgca
+lightwave
+source code control system
+system software
+extended finite state machine model
+multidimensional expressions
+atm forum
+msqljdbc
+svga
+y windows
+phpedit
+lha
+antique software
+fold
+character encoding
+machine learner
+µtorrent
+loop splitting
+user acceptance testing
+dll
+prompt
+squish of fidonet
+fastcad
+java programming language
+client
+xdm
+login script
+quicktime for windows
+single point of failure
+objectworks
+java specification request
+isa
+helper applications
+autocad
+cml
+distributed
+static code analysis
+computer software configuration item
+fat binary
+ppp
+isdn
+cell relay
+constant folding
+alpha test
+java(tm) media framework
+cwiab
+java bytecode
+shareware
+data services server
+ini file
+cooperative multitasking
+network layer
+strength reduction
+disassembly
+general public license
+dhcp
+boolean value
+candidate recommendation
+cd/dvd authoring
+problem solving environment
+class
+64-bit
+macroinstruction
+javabeans(tm)
+secondsystem effect
+line
+gnu c library
+xheight
+information technology
+xerox palo alto research center
+live script
+terminal server
+firmware
+column
+repeat visitor
+specification
+mpeg
+web authoring
+block
+fourthgeneration language
+financial services markup language
+ada programming support environment
+rosegarden
+multiprocessing
+direct access
+cua
+rosasm
+its
+dw
+record length
+noise
+carbon
+linoleum programming language
+data processing
+active content
+valgrind
+abc
+pwb shell
+artificial intelligence
+tn3270
+link
+service release
+qtw
+7zip
+nf
+bottomup design
+microinstruction
+closed source
+loopinvariant code motion
+task scheduling
+binary search tree
+16 bit
+microsoft certified systems administrator
+symbolic inference
+hotjava(tm) browser
+omnipage professional
+kis
+background processing
+shoutcast
+wamp
+laser printer
+linux, apache, mysql and perl/php/python
+design
+deprecated software
+procedure programing
+computational science
+apache http server
+parallel processing
+automated information system
+rpcdump
+bridge
+html editor
+livedistro
+clearquest
+efence
+sequential
+realtime operating system
+java(tm)
+ingres
+database interface for perl
+startup code
+bad neighborhood
+tracking
+gimp toolkit
+c++
+codeview
+drag and drop
+off-line
+shareaza
+bds c
+lava programming language
+seo
+coe
+jsr
+data architect
+apse
+fantasy
+windows server system
+trial software
+system call
+dbi
+cd-rom
+mingw
+dns
+ssa
+merchant of venice
+windowing software
+subweb
+bits per second (bps)
+blogware
+pdl
+index
+fsf
+adl
+java community process
+mcse
+cubase
+java beans
+static single assignment form
+java(tm) remote method invocation (rmi)
+cloud computing
+elastic layout
+reverse engineering
+local c compiler
+xmlterm
+abstract
+db2
+cgi
+java studio(tm)
+jack audio connection kit
+gnu savannah
+relational structure
+cddl
+marquee
+username
+micro code instruction
+architecture description language
+application framework
+database/data communications
+query plan
+command interpreter
+documentation
+application layer
+virtual
+free software license
+short
+relational database management system
+business software
+emacs lisp
+whois
+kazaa lite
+objectoriented abstract type hierarchy
+database model
+schema
+magic user interface
+gnu image manipulation program
+standard template library
+tape library
+cmm
+java compiler compiler
+common information model
+mainframe, minicomputer, micro-computer
+gnu aspell
+control flow graph
+enterprise mobility manager
+below the fold
+cim
+database
+telegard
+clearddts
+msys
+instruction set architecture
+oodbms
+open software foundation
+gca
+kazaa lite revolution
+patch
+hydrogen software
+java database connectivity (jdbc(tm))
+phil katz's zip
+rmi
+soa
+data transformation
+oss through java
+tld
+osd
+binary compatible
+document
+technology compatibility kit (tck)
+emacs
+lazy evaluation
+font style
+tasm
+mui
+object-oriented technology
+the operating system
+computer assisted mass appraisal
+vrml
+podcatcher
+cache
+distributed file system
+zlib
+parsing process
+xfcn
+scripting languages
+team
+free software foundation
+procedure
+rational unified process
+accelerated indirect glx
+checkpoint
+bi software
+rkward
+ardour
+shell
+open look
+cd grabber
+cdata
+software description database
+abstract method
+polyfont recognition
+printer
+subarray
+nonrelocatable block
+warez
+javaos(tm)
+appleshare
+db
+moto programming language
+geronimo application server
+x/open
+abstract base class
+autoresponder
+attribute
+actr
+brightness
+aiglx
+mac os
+account
+jpeg
+sort
+gnu readline
+ram
+enterprise content management
+command
+database management system
+pixel (typography)
+zip file format
+scada
+nonproprietary software
+handshaking
+caid
+gnome
+gnu/linux
+virtual memory system
+rectangular file
+scroll
+nasm
+super
+macro
+hypertext
+nonbreaking space
+bios
+loop fission
+enterprise service bus
+source code
+saturation
+inbound link
+opentracker
+audit
+unified modeling language
+minix
+icons
+vdd
+windows 2000
+microsoft certified trainer
+gmail drive
+revision control system
+ideas
+conversion
+declaration statement
+berkeley software distribution
+hub
+loader program
+java naming and directory interface(tm) (jndi)
+dsi
+blog client
+podcast
+dss
+groupware
+bsp
+digial pen
+graphic
+graphical user interface
+interrupt
+compilation unit
+executable content
+aslr
+cadd
+w2k
+lempelzivoberhumer
+openbsd
+erase
+jhtml
+outbound link
+another bittorrent client
+ex
+pseudonymous remailer
+lan server
+azimuth
+telelogic synergy
+object desktop network
+document! x
+read/write
+yet another compiler compiler
+bounce rate
+gnu mach
+casesensitive
+java(tm) platform editions
+blog
+gsl
+character mapping
+environment
+ssl
+rpc
+pcms
+initialization file
+oop
+payware
+callbyvalue
+java development kit (jdk(tm))
+web page
+gimp
+x window display manager
+advanced interactive executive
+architecture
+user interface
+sparc
+common gateway interface
+open outsourcing
+megabyte (mb)
+html codes
+nanocad
+brlcad
+opensource license
+demostration version
+ups debugger
+fab
+parallel terraced scan
+sit
+metadata
+jpg
+business intelligence software
+nonstop sql
+stack of data structure
+supertype
+process identifier
+devc++
+advanced linux sound architecture
+epub
+binary operator
+gif
+online transaction processing (oltp)
+jdbc(tm)
+backbone
+windows 2003
+host
+emm
+carriage return <cr></cr>
+common user access
+user interface toolkit
+deviceindependent bitmap
+instruction set
+general hardwareoriented software transfer
+middleware
+derived
+tcp/ip
+applescript
+autodesk
+pcbsd
+actual parameter list
+windows 95
+communications software
+storage server
+bmp
+gtkqt
+watchdog event log
+object-oriented design
+sun microsystems
+open source movement
+software engineer
+c#
+mov
+sox unix
+dos
+exec shield
+python
+search engine
+software pipelining
+design compiler
+css
+augmented backus naur form
+nickname
+b2evolution
+rar
+cgibin
+iri
+ar midtier
+fud
+zip
+true audio
+minimal system
+microkernel
+graceful degradation
+surfing
+router
+font weight
+wildcat!
+sgml
+jcp
+database administrator
+file server
+knowbot information service
+portable software
+horizontal software
+loop tiling
+ktorrent
+gnu mix development kit
+javaspaces(tm)
+es
+inline elements
+mozilla
+distributed relational database architecture
+platform
+blue martini software
+livecd
+three tier model
+processorindependent software
+im
+dm
+bnf
+oltp
+bsa
+16bit
+sei
+mcp
+r programming language
+mozilla public license
+kilobyte (kb)
+java(tm) virtual machine (jvm)*
+cms
+enterprise store
+debug monitor
+process center
+ultrix
+virus
+this
+core packages
+content management system
+entry page
+private
+interactive
+cable
+backup
+bittorrent client
+nanika
+rdbms
+hex editor
+practical extraction and reporting language
+telecomputing
+supercollider programming language
+mosaic
+php
+packaged software
+external link
+volume
+coding
+helper application
+integration testing
+user agent
+kazaa lite resurrection
+procedural language
+2gl
+lwp
+gnu assembler
+object code
+user-friendly
+information technology management
+etnus totalview
+bit/s
+software configuration management
+objectoriented language
+finite state machine
+urn
+electric image animation system
+subdomain
+alsa
+restful
+web services
+ws
+systinet
+soapui
+patch
+stratos
+jboss
+c++
+wsdl2java
+wasp
+bleichenbacher attack
+support portal
+password
