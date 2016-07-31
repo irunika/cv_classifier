@@ -9,12 +9,10 @@ robodoc
 token ring
 opendoc
 knowleage robot
-add one and do not skip
 jar file format
 portable operating system interface
 apache incubator
 engine
-der dirigent
 sourceforge
 database administration
 macromedia flash
@@ -30,6 +28,7 @@ accu
 emulation mode
 keyboard mapping
 haskell programming language
+haskell
 pid
 gnu general public license
 structured analysis
@@ -1199,7 +1198,6 @@ jvm
 32 bit
 4gl
 finally
-favorites icon
 celestia
 proprietary software
 linker
@@ -2446,3 +2444,4 @@ wasp
 bleichenbacher attack
 support portal
 password
+internet of things

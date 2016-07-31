@@ -121,21 +121,21 @@ def is_acceptable(phrase, min_char_length, max_words_length):
     if len(words) > max_words_length:
         return 0
 
-    # digits = 0
-    # alpha = 0
-    # for i in range(0, len(phrase)):
-    #     if phrase[i].isdigit():
-    #         digits += 1
-    #     elif phrase[i].isalpha():
-    #         alpha += 1
-    #
-    # # a phrase must have at least one alpha character
-    # if alpha == 0:
-    #     return 0
-    #
-    # # a phrase must have more alpha than digits characters
-    # if digits > alpha:
-    #     return 0
+    digits = 0
+    alpha = 0
+    for i in range(0, len(phrase)):
+        if phrase[i].isdigit():
+            digits += 1
+        elif phrase[i].isalpha():
+            alpha += 1
+
+    # a phrase must have at least one alpha character
+    if alpha == 0:
+        return 0
+
+    # a phrase must have more alpha than digits characters
+    if digits > alpha:
+        return 0
     return 1
 
 
@@ -147,7 +147,7 @@ def calculate_word_scores(phraseList):
         word_list_length = len(word_list)
         word_list_degree = word_list_length - 1
         #if word_list_degree > 3: word_list_degree = 3 #exp.
-        wso2_words = load_wso2_words(wso2wordpath)
+        wso2_words = load_wso2_words(keywordListPath)
 
         for word in word_list:
             word_frequency.setdefault(word, 0)
@@ -188,10 +188,10 @@ def generate_candidate_keyword_scores(phrase_list, word_score, min_keyword_frequ
 
 class Rake(object):
 
-    def __init__(self, stop_words_path, wso2_words_path, min_char_length=1, max_words_length=5, min_keyword_frequency=1):
+    def __init__(self, stop_words_path, keyword_list_path, min_char_length=1, max_words_length=5, min_keyword_frequency=1):
         self.__stop_words_path = stop_words_path
-        global wso2wordpath
-        wso2wordpath = wso2_words_path
+        global keywordListPath
+        keywordListPath = keyword_list_path
         self.__stop_words_pattern = build_stop_word_regex(stop_words_path)
         self.__min_char_length = min_char_length
         self.__max_words_length = max_words_length
