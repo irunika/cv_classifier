@@ -40,18 +40,18 @@ def load_stop_words(stop_word_file):
                 stop_words.append(word)
     return stop_words
 
-def load_wso2_words(wso2_word_file):
+def load_wso2_words(word_file):
     '''
     ---Modification---
     To load special keywords identified to prioritize them in selecting keywords
-    :param wso2_word_file Path and file name of file containing words
+    :param word_file Path and file name of file containing words
     :return list of important words
     '''
-    wso2_words = []
-    for line in open(wso2_word_file):
+    word_list = []
+    for line in open(word_file):
         for word in line.split():  # if more than one per line
-            wso2_words.append(word)
-    return wso2_words
+            word_list.append(word)
+    return word_list
 
 def separate_words(text, min_word_return_size):
     """
