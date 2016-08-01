@@ -43,6 +43,8 @@ def upload():
             return "Wrong Template"
         # return redirect(url_for('uploaded_file',
         #                         filename=filename))
+
+        # print extractor.extract(txt)
         return json.dumps(User.__dict__)
 
 

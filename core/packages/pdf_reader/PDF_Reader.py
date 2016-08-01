@@ -1,5 +1,6 @@
 import config
 from core.dbmgt.usermgt.user import User
+from core.packages.keyword_extractor.Keyword_Extractor import *
 import re
 # content = 'CV - Ravindu Rashmika.pdf'
 
@@ -8,6 +9,7 @@ from textract import process
 
 def CV_reader(fileName):
     project = []
+    technicalSkills = ""
     global FullName, ContactNos, Email, NICNo, Nationality, Gender, DateofBirth, MaritalStatus, SpokenLanguages
     file = config.PathToUpload + fileName
     text = process(file)
@@ -55,9 +57,17 @@ def CV_reader(fileName):
                         j += 1
                     project.append({"title": title, "date": date, "description": description})
                     k = j
-                    # print project
+        if len(re.findall("Key Skills and Competencies", data[i], re.IGNORECASE)) == 1:
+            technicalSkills += data[i+1].replace('Computer skills \xe2\x80\x93', '')
+            technicalSkills += "," + data[i+2].replace('Database \xe2\x80\x93','')
 
+    extractor = Keyword_Extractor()
+    extractor.modify_extractor()
+    projectSet = ""
+    for item in project:
+        # print extractor.extract(item["description"])
+        projectSet += ','.join(extractor.extract(item["description"]))
     user = User(FullName, ContactNos, Email, NICNo, Nationality, Gender, DateofBirth, MaritalStatus,
-                SpokenLanguages, Address)
+                SpokenLanguages, Address, technicalSkills, projectSet)
 
     return user

@@ -30,4 +30,4 @@ if __name__ == '__main__':
       txt = 'My favourite areas are dynamic programming and IOT' \
             ' Im Haskell fan. I love programming in java'
       print x.extract(txt)
-      print x.extract_with_score(txt)
+      # print x.extract_with_score(txt)

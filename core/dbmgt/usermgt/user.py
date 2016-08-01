@@ -8,7 +8,11 @@ class User:
                  DateofBirth="",
                  MaritalStatus="",
                  SpokenLanguages="",
-                 Address=""):
+                 Address="",
+                 computerSkills="",
+                 project=""):
+        self.project = project
+        self.computerSkills = computerSkills
         self.Address = Address
         self.FullName = FullName
         self.ContactNos = ContactNos
