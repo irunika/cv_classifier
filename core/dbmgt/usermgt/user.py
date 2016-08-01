@@ -7,7 +7,9 @@ class User:
                  Gender="",
                  DateofBirth="",
                  MaritalStatus="",
-                 SpokenLanguages=""):
+                 SpokenLanguages="",
+                 Address=""):
+        self.Address = Address
         self.FullName = FullName
         self.ContactNos = ContactNos
         self.Email = Email
