@@ -1,3 +1,5 @@
+import logging
+
 import config
 from core.dbmgt.usermgt.user import User
 from core.packages.keyword_extractor.Keyword_Extractor import *
@@ -12,6 +14,7 @@ def CV_reader(fileName):
     technicalSkills = ""
     global FullName, ContactNos, Email, NICNo, Nationality, Gender, DateofBirth, MaritalStatus, SpokenLanguages
     file = config.PathToUpload + fileName
+    logging.error(file)
     text = process(file)
     data = text.split("\n")
     # print data
