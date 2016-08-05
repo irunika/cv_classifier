@@ -14,7 +14,7 @@ def CV_reader(fileName):
     file = config.PathToUpload + fileName
     text = process(file)
     data = text.split("\n")
-    # print data
+    print data
     # print "------------------------------------", len(data)
     # try:
     #
@@ -41,9 +41,9 @@ def CV_reader(fileName):
         if data[i] == "Spoken Languages":
             SpokenLanguages = data[i + 2]
         if len(re.findall("\x0cProjects and Research", data[i], re.IGNORECASE)) == 1:
-            k = i + 1
+            k = i + 2
             while len(re.findall("Key Skills and Competencies", data[k], re.IGNORECASE)) != 1:
-                # print data[k]
+                print data[k]
                 if len(re.findall("\xe2\x80\x93 Project", data[k], re.IGNORECASE)) == 1:
                     j = k + 4
                     description = ""
